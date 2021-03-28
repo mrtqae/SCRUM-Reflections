@@ -1,0 +1,1 @@
+Scrum oparty jest o iteracje, mające ściścle ograniczenia czasowe, natomiast w Kanban ściśle ograniczone iteracje nie są narzucone.`
