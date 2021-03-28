@@ -1,0 +1,1 @@
+Poszczególne elemnty backlogu powinny być posortowane według istotności dla klienta.
